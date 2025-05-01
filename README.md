@@ -1,5 +1,5 @@
 <!--- Hero Section-->
-Hi there! 👋  
+# Hi there! 👋  
 Looking for a developer who can jump in, understand your business, and get things done?  
 You’re in the right place.
 
@@ -8,7 +8,9 @@ Tech is never a limitation — I adapt fast, learn what’s needed, and focus on
 
 <!---[Download Resume]   [Let’s Work Together]   [View My Work]-->
 <!--- About Me Section-->
-About Me:-
+
+# About Me 👨
+
 I’m a confident and results-driven software developer 💻 with over 3 years of experience building scalable, high-performance web applications using Angular, Node.js, and SQL.
 
 With experience across life sciences 🧬, oil & gas 🛢️, HR systems 👥, and developer tools 🛠️, I thrive in environments that demand creative problem-solving and strategic thinking. I’m not just focused on writing clean code — I’m always looking for innovative ways to solve real business challenges 💡.

@@ -19,5 +19,29 @@ I’m passionate about turning complexity into clarity. Whether it’s designing
 
 Always learning, always building — I’m driven by the challenge of creating software that makes a real difference 🌱.
 
+<!--- Skills Section-->
+## 🧠 Skills
+
+### 💻 Frontend
+`Angular` `Svelte` `TypeScript` `JavaScript` `HTML5` `CSS3 / SCSS` `Responsive UI` `UX Principles`
+
+### 🖥️ Backend
+`Node.js` `Express.js` `Python` `REST APIs` `Microservices`
+
+### 🤖 AI/ML & LLM Work
+`Prompt Engineering` `Ollama` `Hugging Face` `Vector DB (Chrome DB)` `LangChain` `RAG Architectures`
+
+### 🗄️ Databases
+`PostgreSQL` `MySQL` `MongoDB` `Chrome DB` `Database Design` `Query Optimization`
+
+### 🤝 Leadership & Collaboration
+`Team Leadership` `Coaching & Mentoring` `Agile / Scrum` `Sprint Planning` `Stakeholder Collaboration` `Code Reviews` `Project Delivery`
+
+### ⚙️ Tools & DevOps
+`Git / GitHub` `Docker` `Postman` `Swagger` `VS Code` `Jira` `Trello`
+
+### 📚 Soft Skills
+`Problem Solving` `Strategic Thinking` `Creative Ideation` `Fast Learning` `Effective Communication` `Cross-functional Collaboration`
+
 
 

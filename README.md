@@ -5,6 +5,5 @@ You’re in the right place.
 I’m a software developer with 3+ years of experience building scalable, production-grade apps using Angular, Node.js, and SQL.  
 Tech is never a limitation — I adapt fast, learn what’s needed, and focus on solving real business problems.
 
-I’m actively considering full-time roles where I can grow with a team — and open to freelance work until the right opportunity comes along.
+<!---[Download Resume]   [Let’s Work Together]   [View My Work]-->
 
-[Download Resume]   [Let’s Work Together]   [View My Work]

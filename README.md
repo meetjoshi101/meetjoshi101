@@ -63,7 +63,7 @@ Whether you're looking for a full-time team member or a freelance partner, I’m
 
 **Reach out:**  
 - 📧 **Email:** [Send Email](mailto:meetjoshiraru@gmail.com)  
-- 🔗 **LinkedIn:** [View LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/meet-joshi-652687142/))  
+- 🔗 **LinkedIn:** [View LinkedIn Profile](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/meet-joshi-652687142/))  
 - 📅 **Book a Call:** [Calendly](https://calendly.com/your-link)
 
 

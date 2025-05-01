@@ -46,4 +46,25 @@ Always learning, always building — I’m driven by the challenge of creating s
 `Problem Solving` `Strategic Thinking` `Creative Ideation` `Fast Learning` `Effective Communication` `Cross-functional Collaboration`
 
 
+<!--- Contact Me Section -->
+
+## 📞 Let’s Build Something Great Together
+
+Whether you're looking for a full-time team member or a freelance partner, I’m ready to bring your ideas to life and deliver impactful solutions. I’m passionate about solving problems and collaborating to create real value.
+
+---
+
+### 💬 How I Can Help:
+- **Full-Time Role:** Ready to contribute and grow with your team — let’s achieve something amazing.  
+- **Freelance Projects:** Let’s turn your vision into reality.  
+- **Consulting:** Need expert advice? I’m here to help you find the best solution.
+
+---
+
+**Reach out:**  
+- 📧 **Email:** [meetjoshiraru@gmail.com]  
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/meet-joshi-652687142/]  
+- 📅 **Book a Call:** [Calendly or scheduling link]
+
+
 
